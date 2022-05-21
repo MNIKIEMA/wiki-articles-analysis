@@ -1,4 +1,4 @@
-# README.md
+# Wiki-articles-analysis
 
 The code contains a scrapper, a preprocessing tool, a clustering tool and a classifying tool. 
  - The scrapper consists on scrapping articles from wikipedia, using SPARQL queries combined with Python librairies. 
